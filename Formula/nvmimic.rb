@@ -1,8 +1,8 @@
 class Nvmimic < Formula
   desc "Drop-in replacement for nvm that makes new shells start fast"
   homepage "https://github.com/tsilenzio/nvmimic"
-  url "https://github.com/tsilenzio/nvmimic/releases/download/v0.1.0/nvmimic-darwin-universal.tar.gz"
-  sha256 "ecf3c017344176f86ac78f3400d9332388bebd50a9563f18fe3f5ae367b7b564"
+  url "https://github.com/tsilenzio/nvmimic/releases/download/v0.1.1/nvmimic-darwin-universal.tar.gz"
+  sha256 "89a0743fd44fb637b9da88f7700d6ea74f7ec378e11a6e8b3c4ed463395121f4"
   license "MIT"
 
   depends_on :macos
